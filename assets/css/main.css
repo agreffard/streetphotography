@@ -1770,6 +1770,19 @@
 				}
 		}
 
+		@media screen and (max-width: 980px) {
+			#main .thumb {
+				height: calc(15vh - 1.5em);
+				min-height: 7.5em;
+			}
+		}
+
+		@media screen and (max-width: 480px) {
+			#main .thumb {
+				height: calc(10vh - 1em);
+				min-height: 5em;
+			}
+		}
 /*		@media screen and (max-width: 980px) {
 
 			#main .thumb {
