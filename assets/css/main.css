@@ -2298,9 +2298,13 @@
 		font-size: 0.9em;
 	}
 
-		#footer .copyright a {
-			color: inherit;
-		}
+	#footer .copyright a {
+		color: inherit;
+	}
+
+	#footer img {
+		width: 100%;
+	}
 
 
 /*********************************************************************************/
