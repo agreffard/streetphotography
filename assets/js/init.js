@@ -122,6 +122,8 @@
 		//'youth.jpg',
 		//'zen.jpg',
 		'mimetism.jpg',
+		'saxo.jpg',
+		'headless.jpg',
 	];
 
 	imgs.forEach(image => {
